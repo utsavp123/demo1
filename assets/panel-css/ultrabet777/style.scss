@@ -1,0 +1,88 @@
+html {
+  // --primary-color: linear-gradient(90deg, rgb(54, 58, 173) 0%, rgb(43, 164, 243) 100%);
+  // --primary-color: #363aad;
+  --primary-color: #f7bd43;
+  --header-color: #ffffff;
+  --header-font-color: #444444;
+  --table-header-color: #fff2d5;
+  --sidebar-active-hover-color: linear-gradient(331deg, var(--primary-color) 0%, #f7bd43 100%);
+  --sidebar-bg-color: #f8f9fa;
+  --dashboard-bg-color: #eef1f7;
+  --sidebar-border-color: #f7bd43;
+  --table-tr-color: #28262108;
+  ;
+  --selected-tag-color: #f7bd43;
+  --dashboard-search: var(--primary-color);
+  --notification-bg-color: #f0c371;
+  --progress-color: #f7bd43;
+  --progress-bg-color: #ffff;
+  --login-bg-color: var(--primary-color);
+  --input-filed-color: #dcdde1;
+  --logo-Size: 32px;
+  --i-w: 32px;
+  --i-sm-Size: 15px;
+
+  --dashboard-vector: url('../../../assets/images/BusinesswomanIcon.png');
+  --search-focus: 74 105 189;
+  --table-header-bg: #303133;
+  --table-header-text: #333;
+  --table-right-border: #e4e8e8;
+  --menu-tab-bg: #303133;
+  --dashboard-balance-card-bg: #ffff;
+  --stat-card-bg: #f3f3f3;
+  --primary-color-light: #fff1d5;
+  --stat-card-header-bg: var(--table-header-bg);
+  --white-dark: #cecece;
+  --dark-white: #333;
+  --metric-card-bg: #ffffff;
+  --table--th-right-border: #0003;
+  --skeleton-bg: #e0e0e0;
+  --calendar-icon-filter: invert(0);
+  /* black icon */
+  --gr-bg: #f7bd43;
+  --gr-sub-bg: #f7bd43;
+  --gr-hover-bg: #f7bd43;
+  --primary-bg-text-color: #FFFFFF;
+  --secondary-color: #f3f8fb;
+  --gr-bg: #f7bd43;
+  --primary-bg-text-color: #FFFFFF;
+  --secondary-color: #f3f3f3;
+  --light-bg-color: #f5f6fa;
+  --form-control-bd-color: #ced4da;
+  --card-header-neon: var(--primary-color);
+  --d-card-sub-bg: #f4f4ff;
+  --primary-neon: #f7bd43;
+  --primary-bg-color: #ffffff;
+  --primary-text-color: #ffffff;
+  --vz-card-color: #000;
+  --primary-text-light: #fff;
+  --bg-side-menu: #ffff;
+  --box-shadow: rgba(0, 0, 0, 0.1);
+  --primary-dark-color: #f7bd43;
+  --Menutag: #f7bd43;
+  --login-logo-filter: none;
+  --sidebar-active-hover-color: linear-gradient(331deg, #f9f1da 0%, #ffc107 100%) !important;
+
+  --primary-progressbar: linear-gradient(46deg, rgba(74, 105, 189, 0.2) 25%, #ffffff 25%, #ffffff 50%, rgba(74, 105, 189, 0.2) 50%, rgba(74, 105, 189, 0.3) 75%, #ffffff 75%, #ffffff);
+}
+
+// google translate
+.goog-te-banner-frame.skiptranslate {
+  display: none !important;
+}
+
+.VIpgJd-ZVi9od-aZ2wEe-wOHMyf.VIpgJd-ZVi9od-aZ2wEe-wOHMyf-ti6hGc {
+  display: none !important;
+}
+
+.skiptranslate {
+  display: none !important;
+}
+
+.widescreen {
+  top: 0 !important;
+}
+
+.smallscreen {
+  top: 0 !important;
+}
